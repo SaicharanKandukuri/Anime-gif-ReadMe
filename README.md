@@ -1,3 +1,7 @@
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FSaicharanKandukuri%2Fgithub-utils&project-name=github-fancy&demo-url=https%3A%2F%2Fgithub-utils.vercel.app%2Fapi%2Fgif%2Fanime)
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
