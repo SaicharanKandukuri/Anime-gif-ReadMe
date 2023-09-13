@@ -10,7 +10,8 @@
 		"sourceMap": true,
 		"strict": true,
 		"types": ["bun-types"],
-		"moduleResolution": "nodenext"
+		"moduleResolution": "nodenext",
+		"allowImportingTsExtensions": true
 	}
 	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias and https://kit.svelte.dev/docs/configuration#files
 	//
