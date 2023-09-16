@@ -14,6 +14,15 @@ A collection of utilities to make github readme more fancy.
 |-|-|--|
 | [`api/gif/anime`](https://github-readme-utils.vercel.app/api/gif/anime) | returns random anime from cherry picked list ( Source: [tenor](tenor.com)) | ![randomGif](https://github-readme-utils.vercel.app/api/gif/anime) |
 
+### Usage
+
+Add this to your readme
+```md
+<p align="center">
+  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
+</p>
+```
+
 ### Contributing
 
 Found an awsome Gif or want to add more endpoints? Feel free to open a PR.
