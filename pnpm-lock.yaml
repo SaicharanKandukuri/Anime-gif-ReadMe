@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   bun-types:
-    specifier: ^1.0.2
-    version: 1.0.2
+    specifier: ^1.0.6
+    version: 1.0.6
 
 devDependencies:
   '@playwright/test':
@@ -451,8 +451,8 @@ packages:
     resolution: {integrity: sha512-VO9Ht/+p3SN7SKWqcrgEzjGbRSJYTx+Q1pTQC0wrWqHx0vpJraQ6GtHx8tvcg1rlK1byhU5gccxgOgj7B0TDkQ==}
     dev: true
 
-  /bun-types@1.0.2:
-    resolution: {integrity: sha512-yqBp2SX9cqr5/GReb56uCfM+YP+Hntx3XPjbqX1VJXqOBu+Yqw8iWRFLKFIsz9uEfykLgflhramQ8a5Jgo+Tlg==}
+  /bun-types@1.0.6:
+    resolution: {integrity: sha512-5QwynfXiRCRxPW3ZnC0Dv+sHHmctP4SHIuzsRKOWYO0HF/qUpsxQVexoviaxpmwDsF1hoVDDFdc4xUuafOzx1g==}
     dev: false
 
   /busboy@1.6.0:
