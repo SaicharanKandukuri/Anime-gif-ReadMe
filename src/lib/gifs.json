@@ -1,74 +1,25 @@
 {
-    "length": 22,
-    "0": {
-        "url": "https://user-images.githubusercontent.com/68287637/212882218-4bcc2eae-08a4-4175-a8cc-afb00ed0087a.gif"
-    },
-    "1": {
-        "url": "https://media.tenor.com/IbCZDEwL1u0AAAAM/madara.gif"
-    },
-    "2": {
-        "url": "https://media.tenor.com/pFUIsUoc7agAAAAi/capoo-bugcat.gif"
-    },
-    "3": {
-        "url": "https://media.tenor.com/V-tR26TEu8gAAAAi/anime-anime-girl.gif"
-    },
-    "4": {
-        "url": "https://media.tenor.com/lC6XP7xhPgYAAAAC/anime-no.gif"
-    },
-    "5": {
-        "url": "https://media.tenor.com/TcrzssE_SwMAAAAi/anime-waifu.gif"
-    },
-    "6": {
-        "url": "https://media.tenor.com/SEEMSDLdDugAAAAd/anya-forger.gif"
-    },
-    "7": {
-        "url": "https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif"
-    },
-    "8": {
-        "url": "https://media.tenor.com/D-QwKDFNrLIAAAAM/akira-cute.gif"
-    },
-    "9": {
-        "url": "https://media.tenor.com/flgr60AyIosAAAAC/anime-anime-cat.gif"
-    },
-    "10": {
-        "url": "https://media.tenor.com/sNFexhmrymkAAAAC/et-ouai-peace-sign.gif"
-    },
-    "11": {
-        "url": "https://media.tenor.com/sXsqNaZp12MAAAAi/anime-trigger-notifications.gif" 
-    },
-    "12": {
-        "url": "https://media.tenor.com/-I1sYsJQ-XUAAAAi/vibe-dance.gif"
-    },
-    "13": {
-        "url": "https://media.tenor.com/DTf5chPXnqoAAAAd/anime.gif"
-    },
-    "14": {
-        "url": "https://media.tenor.com/EImNY6rDd1wAAAAi/notification-number-one.gif"
-    },
-    "15": {
-        "url": "https://media.tenor.com/7Hu7qzFdgxQAAAAi/okay.gif"
-    },
-    "16": {
-        "url": "https://media.tenor.com/oJsgYCTid54AAAAi/ahhhh-aaaa.gif"
-    },
-    "17": {
-        "name": "Bocchi the Rock Dancin",
-        "url": "https://media.tenor.com/KVFqRA1S1NoAAAAd/bocchi-the-rock-bocchi.gif"
-    },
-    "18": {
-        "name":"Bocchi the Rock Midnight panic",
-        "url": "https://media.tenor.com/zXCbu7b7qA8AAAAd/bocchi-the-rock-bocchi-the-rock-gif.gif"
-    },
-    "19": {
-        "name":"Bocchi the Rock panic before entering?",
-        "url": "https://media.tenor.com/p1SESJZYkscAAAAd/bocchi-the-rock-bocchi.gif"
-    },
-    "20": {
-        "name": "Bocchi the Rock panic Noooo",
-        "url": "https://media.tenor.com/BGpcqCHkawcAAAAC/bocchi-the-rock-bocchi-the-rock-gif.gif"
-    },
-    "21": {
-        "name":"tiny Bocchi the Rock First Yotube Video",
-        "url": "https://media.tenor.com/gCoKwtK9DAkAAAAC/bocchi-the-rock-gif-bocchi-the-rock.gif"
-    }
+    "gifs": [
+        "https://user-images.githubusercontent.com/68287637/212882218-4bcc2eae-08a4-4175-a8cc-afb00ed0087a.gif",
+        "https://media.tenor.com/IbCZDEwL1u0AAAAM/madara.gif",
+        "https://media.tenor.com/V-tR26TEu8gAAAAi/anime-anime-girl.gif",
+        "https://media.tenor.com/lC6XP7xhPgYAAAAC/anime-no.gif",
+        "https://media.tenor.com/TcrzssE_SwMAAAAi/anime-waifu.gif",
+        "https://media.tenor.com/SEEMSDLdDugAAAAd/anya-forger.gif",
+        "https://media.tenor.com/S1_EANGlMJoAAAAC/hello-hi.gif",
+        "https://media.tenor.com/D-QwKDFNrLIAAAAM/akira-cute.gif",
+        "https://media.tenor.com/flgr60AyIosAAAAC/anime-anime-cat.gif",
+        "https://media.tenor.com/sNFexhmrymkAAAAC/et-ouai-peace-sign.gif",
+        "https://media.tenor.com/sXsqNaZp12MAAAAi/anime-trigger-notifications.gif",
+        "https://media.tenor.com/-I1sYsJQ-XUAAAAi/vibe-dance.gif",
+        "https://media.tenor.com/DTf5chPXnqoAAAAd/anime.gif",
+        "https://media.tenor.com/EImNY6rDd1wAAAAi/notification-number-one.gif",
+        "https://media.tenor.com/7Hu7qzFdgxQAAAAi/okay.gif",
+        "https://media.tenor.com/oJsgYCTid54AAAAi/ahhhh-aaaa.gif",
+        "https://media.tenor.com/KVFqRA1S1NoAAAAd/bocchi-the-rock-bocchi.gif",
+        "https://media.tenor.com/zXCbu7b7qA8AAAAd/bocchi-the-rock-bocchi-the-rock-gif.gif",
+        "https://media.tenor.com/p1SESJZYkscAAAAd/bocchi-the-rock-bocchi.gif",
+        "https://media.tenor.com/BGpcqCHkawcAAAAC/bocchi-the-rock-bocchi-the-rock-gif.gif",
+        "https://media.tenor.com/gCoKwtK9DAkAAAAC/bocchi-the-rock-gif-bocchi-the-rock.gif"
+    ]
 }
